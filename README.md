@@ -8,28 +8,22 @@
 
 ---
 
-> 📘 **New to OSINT?** Start with the [OSINT Playbook](https://github.com/OmphalosOSINT/OSINT-Playbook) — a structured, bilingual starter guide covering methodology and core tools across 11 thematic modules.
+> 📘 **New to OSINT?** Start with the [OSINT Playbook](https://github.com/OmphalosOSINT/OSINT-Playbook) — a structured, bilingual FR ENG starter guide covering methodology and core tools across 11 thematic modules.
 
 ---
 
 ## Table of Contents
 
-### 🛠️ Tools
-- [SOCMINT — Identity & Social Media](tools/SOCMINT.md)
-- [GEOINT — Geolocation & Imagery](tools/GEOINT.md)
-- [HUMINT — People Intelligence](tools/HUMINT.md)
-- [Corporate & Business Intelligence](tools/CORPORATE.md)
-- [Dark Web](tools/DARKWEB.md)
-- [Cryptocurrency & Blockchain](tools/CRYPTO.md)
-- [Email & Username](tools/EMAIL-USERNAME.md)
-- [Metadata & File Analysis](tools/METADATA.md)
-- [Network & Infrastructure](tools/NETWORK.md)
+- [Corporate & Business Intelligence](Tools/Corporate.md)
+- [Cryptocurrency & Blockchain](Tools/Crypto.md)
+- [Dark Web](Tools/DarkWeb.md)
+- [Email & Username](Tools/Email&Username.md)
+- [GEOINT — Geolocation & Imagery](Tools/GEOINT.md)
+- [HUMINT — People Intelligence](Tools/HUMINT.md)
+- [Metadata & File Analysis](Tools/Metadata&FileAnalysis.md)
+- [Network & Infrastructure](Tools/Network.md)
+- [SOCMINT — Identity & Social Media](Tools/SOCMINT.md)
 
-### 🌐 Databases & Websites
-- [Databases & Online Resources](resources/DATABASES.md)
-
-### 📐 Frameworks & Methodologies
-- [Frameworks & Methodologies](resources/FRAMEWORKS.md)
 
 ### 🎓 Training & Learning
 - [YouTube Channels](training/YOUTUBE.md)
