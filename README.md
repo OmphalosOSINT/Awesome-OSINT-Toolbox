@@ -8,7 +8,7 @@
 
 ---
 
-> 📘 **New to OSINT?** Start with the [OSINT Playbook](https://github.com/OmphalosOSINT/OSINT-Playbook) — a structured, bilingual FR ENG starter guide covering methodology and core tools across 11 thematic modules.
+> 📘 **New to OSINT?** Start with the [OSINT Playbook](https://github.com/OmphalosOSINT/OSINT-Playbook) — a structured, bilingual 🇫🇷 🇬🇧 starter guide covering methodology and core tools across 11 thematic modules.
 
 ---
 
