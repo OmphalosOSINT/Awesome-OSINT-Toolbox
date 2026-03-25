@@ -1,4 +1,4 @@
-# 🔍 Awesome-OmphalosOSINT
+# 🔍 Awesome-OSINT-Toolbox
 
 > A curated list of OSINT tools, databases, frameworks, and training resources — maintained by [Omphalos OSINT](https://github.com/OmphalosOSINT).
 
