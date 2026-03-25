@@ -24,12 +24,6 @@
 - [Network & Infrastructure](Tools/Network.md)
 - [SOCMINT — Identity & Social Media](Tools/SOCMINT.md)
 
-
-### 🎓 Training & Learning
-- [YouTube Channels](training/YOUTUBE.md)
-- [Courses & Certifications](training/COURSES.md)
-- [Blogs & Communities](training/BLOGS.md)
-
 ---
 
 ## Contributing
