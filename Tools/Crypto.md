@@ -17,6 +17,7 @@
 - [Professional Forensics Platforms](#professional-forensics-platforms)
 - [Exchange & Entity Identification](#exchange--entity-identification)
 - [NFT & DeFi Investigation](#nft--defi-investigation)
+- [Cross-Chain & Identity Pivoting](#cross-chain--&-identity-pivoting)
 
 ---
 
@@ -25,6 +26,7 @@
 | Tool | Description | Free | Origin |
 |------|-------------|------|--------|
 | [Blockchain.com Explorer](https://www.blockchain.com/explorer) | Bitcoin transaction & wallet explorer | ✅ | 🇬🇧 UK |
+| [Blockstream.info](https://blockstream.info) | Privacy-focused Bitcoin explorer, no tracking, Tor accessible | ✅ | 🇺🇸 USA |
 | [Etherscan](https://etherscan.io) | Ethereum blockchain explorer | ✅ | 🇺🇸 USA |
 | [BscScan](https://bscscan.com) | Binance Smart Chain explorer | ✅ | 🇺🇸 USA |
 | [Blockchair](https://blockchair.com) | Multi-chain explorer (BTC, ETH, XRP, etc.) | 🔶 Freemium | 🇳🇱 Netherlands |
@@ -40,6 +42,8 @@
 | Tool | Description | Free | Origin |
 |------|-------------|------|--------|
 | [Breadcrumbs](https://www.breadcrumbs.app) | Visual crypto wallet graph analysis | 🔶 Freemium | 🇺🇸 USA |
+| [Arkham Intelligence](https://platform.arkhamintelligence.com) | On-chain entity identification & wallet deanonymization | 🔶 Freemium | 🇺🇸 USA |
+| [DeBankPro](https://debank.com) | DeFi wallet & multi-chain portfolio analysis | 🔶 Freemium | 🇨🇳 China |
 | [OXT.me](https://oxt.me) | Bitcoin transaction graph analysis | ✅ | 🇫🇷 France |
 | [Bitquery](https://bitquery.io) | Multi-chain blockchain data & graph explorer | 🔶 Freemium | 🇺🇸 USA |
 | [Maltego + Blockchain transforms](https://www.maltego.com) | Blockchain entity mapping via Maltego | 🔶 Freemium | 🇩🇪 Germany |
@@ -79,6 +83,14 @@
 | [DeFiLlama](https://defillama.com) | DeFi protocol tracking & TVL analytics | ✅ | 🌐 Open Source |
 | [Dune Analytics](https://dune.com) | On-chain data queries & dashboards | 🔶 Freemium | 🇳🇴 Norway |
 | [Etherscan NFT Tracker](https://etherscan.io/nft-top-contracts) | NFT contract activity on Ethereum | ✅ | 🇺🇸 USA |
+
+---
+
+## Cross-Chain & Identity Pivoting
+
+| Tool | Description | Free | Origin |
+|------|-------------|------|--------|
+| [OSINT Industries](https://www.osint.industries) | Cross-platform identity resolution — pivot from crypto wallet to email, phone & social accounts | ❌ Paid | 🇬🇧 UK |
 
 ---
 
