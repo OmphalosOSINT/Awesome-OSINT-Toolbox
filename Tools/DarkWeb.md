@@ -52,6 +52,8 @@
 | [IntelX](https://intelx.io) | Dark web, paste sites & leaked data search | 🔶 Freemium | 🇨🇿 Czech Republic |
 | [Psbdmp](https://psbdmp.ws) | Pastebin dump search engine | ✅ | 🌐 Unknown |
 | [Leak-Lookup](https://leak-lookup.com) | Data breach & credential leak search | 🔶 Freemium | 🇬🇧 UK |
+| [Grep.app](https://grep.app) | Regex search across public GitHub repositories, find exposed API keys and credentials | ✅ | 🌐 International |
+
 
 ---
 
@@ -64,6 +66,9 @@
 | [DarkOwl](https://www.darkowl.com) | Dark web data collection & monitoring | ❌ Paid | 🇺🇸 USA |
 | [Silobreaker](https://www.silobreaker.com) | Threat intelligence aggregator | ❌ Paid | 🇸🇪 Sweden |
 | [Cybersixgill](https://cybersixgill.com) | Underground forum & dark web monitoring | ❌ Paid | 🇮🇱 Israel |
+| [Pulsedive.com](https://pulsedive.com) | | Community threat intelligence platform with MITRE ATT&CK enrichment — correlates IOCs | 🔶 Freemium | 🇺🇸 USA |
+| [Threatbook.io](https://threatbook.io) | Intelligence-driven threat detection with deep APAC threat actor coverage | 🔶 Freemium | 🇨🇳 China |
+
 
 ---
 
@@ -76,6 +81,10 @@
 | [BreachDirectory](https://breachdirectory.org) | Free breach & credential search | ✅ | 🇺🇸 USA |
 | [Snusbase](https://snusbase.com) | Database breach search engine | 🔶 Freemium | 🇸🇪 Sweden |
 | [LeakCheck](https://leakcheck.io) | Email & username breach lookup | 🔶 Freemium | 🇺🇦 Ukraine |
+| [Leakradar.io](https://leakradar.io) | Real-time cleartext credential leak detection across 290B+ records with domain monitoring and alerts | 🔶 Freemium | 🌐 International |
+| [Hudsonrock.com](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Infostealer intelligence platform - compromised credentials database and Cavalier API | 🔶 Freemium | 🇮🇱 Israel |
+| [Darkbeast.io](https://darkbeast.io) | Dark web monitoring and keyword-based search for brand and data exposure | ❌ Paid | 🌐 International |
+
 
 ---
 
