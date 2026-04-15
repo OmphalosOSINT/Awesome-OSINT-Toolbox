@@ -65,6 +65,7 @@
 | [Peakvisor](https://peakvisor.com) | Mountain & peak identification from photos | 🔶 Freemium | 🇨🇿 Czech Republic |
 | [Mapbox](https://www.mapbox.com) | Custom map layers and geospatial analysis | 🔶 Freemium | 🇺🇸 USA |
 | [Wigle.net](https://wigle.net) | Worldwide database of geolocated Wi-Fi and Bluetooth networks | 🔶 Freemium | 🇺🇸 USA |
+| [Wigle.net](https://wigle.net) | Worldwide database of geolocated Wi-Fi and Bluetooth networks. Useful for physical presence tracking from SSID or MAC address | 🔶 Freemium | 🇺🇸 USA |
 
 ---
 
