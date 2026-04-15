@@ -107,6 +107,7 @@
 | [Holehe](https://github.com/megadose/holehe) | Check if an email is registered on sites | ✅ | 🇫🇷 France |
 | [Synapsint](https://synapsint.com) | Unified OSINT search across multiple sources | ✅ | 🇺🇸 USA |
 | [Spokeo](https://www.spokeo.com) | People search aggregator (US-focused) | 🔶 Freemium | 🇺🇸 USA |
+| [Creepy](https://www.geocreepy.com) | Extracts and visualizes geolocation data from photo metadata published on social networks | ✅ | 🇬🇷 Greece |
 
 ---
 
