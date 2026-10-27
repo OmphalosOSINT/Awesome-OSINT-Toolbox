@@ -49,7 +49,7 @@
 | [Osintgram](https://github.com/Datalux/Osintgram) | Instagram OSINT tool (requires account) | ✅ | 🇮🇹 Italy |
 | [Imginn](https://imginn.com) | Browse Instagram profiles without account | ✅ | 🇺🇸 USA |
 | [InstaDP](https://www.instadp.com) | View full-size Instagram profile pictures | ✅ | 🇮🇳 India |
-| [Picuki](https://www.picuki.com) | Browse & search Instagram anonymously | ✅ | 🇺🇸 USA |
+| [IGDataHub](https://igdatahub.com) | Instagram profile stats with follower counts recorded over time | 🔶 Freemium | 🌐 Online |
 
 ---
 
@@ -58,7 +58,7 @@
 | Tool | Description | Free | Origin |
 |------|-------------|------|--------|
 | [TweetDeck](https://tweetdeck.twitter.com) | Advanced Twitter search & monitoring | ✅ | 🇺🇸 USA |
-| [Social Bearing](https://socialbearing.com) | Twitter analytics and search | ✅ | 🇬🇧 UK |
+| [twtData Trends](https://twtdata.com/twitter-trends/) | X/Twitter trending topics by country and city, with a dated archive | ✅ | 🌐 Online |
 | [Followerwonk](https://followerwonk.com) | Twitter bio search and follower analysis | 🔶 Freemium | 🇺🇸 USA |
 | [Botometer](https://botometer.osome.iu.edu) | Bot detection for Twitter accounts | ✅ | 🇺🇸 USA |
 
@@ -81,7 +81,7 @@
 |------|-------------|------|--------|
 | [TikTok Search](https://www.tiktok.com/search) | Native TikTok search | ✅ | 🇨🇳 China |
 | [Exolyt](https://exolyt.com) | TikTok analytics & profile stats | 🔶 Freemium | 🇪🇪 Estonia |
-| [Tikstats](https://tikstats.net) | TikTok profile statistics | ✅ | 🇺🇸 USA |
+| [TKMetrics](https://tkmetrics.com) | TikTok creator search ranked by average views and engagement rate | 🔶 Freemium | 🌐 Online |
 
 ---
 
