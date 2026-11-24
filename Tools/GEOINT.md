@@ -63,6 +63,7 @@
 | [What3Words](https://what3words.com) | Precise 3m² location identification | ✅ | 🇬🇧 UK |
 | [GeoHints](https://geohints.com) | Country identification clues for GEOINT | ✅ | 🇺🇸 USA |
 | [Peakvisor](https://peakvisor.com) | Mountain & peak identification from photos | 🔶 Freemium | 🇨🇿 Czech Republic |
+| [H1DR4 Incident Map](https://h1dr4.dev/map) | Browser map of Police.uk incident records in England and Wales, with approximate coordinates and coverage that varies by force and month | ✅ | — |
 | [Mapbox](https://www.mapbox.com) | Custom map layers and geospatial analysis | 🔶 Freemium | 🇺🇸 USA |
 | [Wigle.net](https://wigle.net) | Worldwide database of geolocated Wi-Fi and Bluetooth networks | 🔶 Freemium | 🇺🇸 USA |
 | [Wigle.net](https://wigle.net) | Worldwide database of geolocated Wi-Fi and Bluetooth networks. Useful for physical presence tracking from SSID or MAC address | 🔶 Freemium | 🇺🇸 USA |
