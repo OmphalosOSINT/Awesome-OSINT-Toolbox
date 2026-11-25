@@ -42,6 +42,7 @@
 | [Verif.com](https://www.verif.com) | French company financial scores & filings | 🔶 Freemium | 🇫🇷 France |
 | [Creditsafe](https://www.creditsafe.com) | Business credit reports worldwide | ❌ Paid | 🇬🇧 UK |
 | [OpenFinance (data.gouv.fr)](https://data.gouv.fr) | French open government financial data | ✅ | 🇫🇷 France |
+| [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) | US federal contract and grant awards by agency, recipient, NAICS and period | 🔶 Freemium | 🇺🇸 USA |
 
 ---
 
