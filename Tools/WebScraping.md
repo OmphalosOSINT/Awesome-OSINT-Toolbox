@@ -11,6 +11,7 @@
 | Tool                                          | Description                                                                                          | Free       | Origin     |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------- | ---------- |
 | [ScrapingAnt](https://scrapingant.com/?ref=ymqyowu) | Web scraping API with headless browser (JavaScript rendering) and residential proxies. No-code request builder + API. *(affiliate link)* | 🔶 Freemium | 🇺🇦 Ukraine |
+| [Public Records](https://apify.com/publicrecords) | Managed APIs for public data: US federal grants and contracts, EU/UK tenders, city council meetings, ATS jobs, company social links. | 🔶 Freemium | 🇺🇸 USA |
 
 ---
 
